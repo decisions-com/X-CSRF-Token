@@ -52,12 +52,13 @@ namespace XCSRFToken
        
 
 
-        public class SapParam
+       
+    } 
+    public class SapParam
         {
             public string csrfToken { get; set; }
             public string Cookie { get; set; }
 
             public string[] Cookies { get; set; }
         }
-    }
 }
