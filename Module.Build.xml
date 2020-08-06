@@ -13,7 +13,7 @@
   </Clients>
   <Resources NoComponents="true">
     <ServicesDlls>
-      <string>.\X-CSRF-Token\bin\Debug\X-CSRF-Token.dll</string>    
+      <string>.\XCSRFToken\bin\Debug\XCSRFToken.dll</string>    
     </ServicesDlls>
     <CliDlls/>
     <WebPages/>
