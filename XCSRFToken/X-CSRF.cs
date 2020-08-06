@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace XCSRFToken
 {
-    [AutoRegisterMethodsOnClass(true, "Integration/REST Services/Advanced")]
+    [AutoRegisterMethodsOnClass(true, "Integration/X-CSRF")]
     public class X_CSRF
     {
 
